@@ -1,2 +1,2 @@
 # Leetcode
-Leetcode solution by Medha
+Leetcode solution by Medha chakraborty
